@@ -1,0 +1,124 @@
+.table tbody tr td,
+.table tbody th td {
+    padding: .5%;
+    font-weight: 400;
+}
+
+thead tr th,
+tbody tr th {
+    vertical-align: inherit !important;
+}
+
+.tblecolorth {
+    background-color: beige;
+}
+
+.card-footer {
+    background-color: beige;
+}
+
+.card-footer .row,
+p,
+h5 {
+    font-family: 'Courgette', cursive;
+    margin-bottom: 0 !important;
+    font-size: 14px;
+}
+
+.card-footer .row strong {
+    font-weight: bold !important;
+}
+
+.table tbody tr th {
+    font-size: small !important;
+}
+
+th {
+    font-size: smaller;
+}
+
+.weekday {
+    background: #ff9700
+}
+
+.frisat {
+    background: #f1b82b
+}
+
+.weekend {
+    background: #ffd366
+}
+
+.card-header button {
+    font-weight: bold !important;
+}
+
+.btn-warning {
+    background-color: #ffc1074a !important;
+}
+
+.btn-warning1 {
+    background-color: #ffc107 !important;
+}
+
+.card-header {
+    background-color: beige !important;
+}
+
+.fc-unthemed td {
+    color: black;
+}
+
+.form-control:focus {
+    background: #ac3220 !important;
+    color: white !important;
+}
+
+.search-form .btn {
+    color: #fff !important;
+}
+
+.search-form input.form-control::placeholder {
+    color: #fff !important;
+}
+
+.search-form .form-control {
+    background: #fff !important;
+}
+
+.b-r {
+    border-top: 2px solid red;
+}
+
+.b-pr {
+    border-top: 2px solid cyan;
+}
+
+.b-rb {
+    border-top: 2px solid rebeccapurple;
+}
+
+.b-g {
+    border-top: 2px solid green;
+}
+
+.b-l {
+    border-top: 2px solid limegreen;
+}
+
+.b-b {
+    border-top: 2px solid blue;
+}
+
+.b-p {
+    border-top: 2px solid paleturquoise;
+}
+
+.top_counter .content {
+    height: 46px !important;
+}
+
+.list-referrals .txt {
+    font-size: 20px;
+    font-weight: bold;
+}

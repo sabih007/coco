@@ -1,0 +1,445 @@
+.inlineblock,
+.card,
+.card .header .header-dropdown li,
+.navbar-fixed-top .navbar-right .navbar-nav,
+.navbar-fixed-top .navbar-right .navbar-nav>li,
+.user-account .dropdown,
+ul.choose-skin li div,
+ul.choose-skin li span,
+.wizard>.actions ul,
+.tabcontrol>.steps>ul>li>a,
+.tabcontrol>.content,
+.chat-widget li.right .chat-info,
+.chat-widget li .chat-info,
+.info-box-2 .icon,
+.info-box-2 .content,
+.weather .days li,
+.weather3 .top .wrapper .temp .temp-value,
+.weather3 .top .wrapper .temp .deg,
+.stats-report .stat-item,
+.new_timeline .header .color-overlay .day-number,
+.new_timeline .header .color-overlay .date-right,
+.new_timeline li div,
+.team-info li,
+.chart.easy-pie-chart-1,
+.c_list .c_name,
+.right_chat .media .message,
+.right_chat .media .status,
+.dt-bootstrap4 .dt-buttons,
+.dt-bootstrap4 .dataTables_info,
+.dt-bootstrap4 .dt-buttons+.dataTables_filter,
+.dt-bootstrap4 .dt-buttons+.dataTables_paginate,
+.dt-bootstrap4 .dataTables_info+.dataTables_filter,
+.dt-bootstrap4 .dataTables_info+.dataTables_paginate,
+.social_icon,
+.member-card .social-links li {
+    display: inline-block
+}
+
+.displayblock,
+.card .header .header-dropdown li a,
+.card .header h2 small,
+.navbar-nav ul.notifications li>a,
+.navbar-nav ul.notifications li .text,
+.navbar-nav ul.user-menu>li>a,
+.user-account .user-name,
+.user-account .dropdown .dropdown-menu a,
+.sidebar-nav .metismenu a,
+ul.choose-skin li,
+.auth-box .helper-text,
+.auth-box .btn-signin-social,
+.metric-inline i,
+.metric-inline span,
+.separator-linethrough:after,
+.wizard,
+.tabcontrol,
+.wizard ul>li,
+.tabcontrol ul>li,
+.wizard>.steps,
+.wizard>.steps a,
+.wizard>.steps a:hover,
+.wizard>.steps a:active,
+.wizard>.content,
+.wizard>.actions,
+.wizard>.actions a,
+.wizard>.actions a:hover,
+.wizard>.actions a:active,
+.tabcontrol>.steps,
+.chat-widget li .message,
+.info-box-2 .chart,
+.weather2 .city-selected .temp h2,
+.weather .days li .degrees,
+.weather3 .top::after,
+.weather3 .bottom .forecast li,
+.basic-list li,
+.right_chat .media .name,
+.social_media_table .list-name,
+.testimonial4 blockquote,
+.testimonial4 blockquote:before,
+.testimonial4 blockquote:after,
+.member-card .text-pink,
+.w_social2 .pw_img:before,
+.w_social2 .pw_content .pw_meta small,
+.w_social2 .pw_content .pw_meta span,
+.w_profile .job_post,
+.feeds_widget li .feeds-body,
+.feeds_widget li .feeds-body>small,
+.timeline-item:before,
+.timeline-item:after,
+.page-calendar .event-name h4 span,
+.page-calendar .event-name p,
+.fc .fc-view-container .fc-event:focus .fc-overlay,
+.fc .fc-view-container .fc-event:hover .fc-overlay,
+.fc .fc-view-container .fc-event:active .fc-overlay,
+.file_manager .file a:hover .hover,
+.file_manager .file .file-name small,
+.pricing3 .pricing-option .price,
+.invoice1 .info {
+    display: block
+}
+
+.m-t-0,
+.tabcontrol>.steps>ul>li.current,
+.weather2 .days-list .day h5,
+.weather .city,
+.weather .city h3,
+.page-calendar .event-name h4 {
+    margin-top: 0px
+}
+
+.m-r-0,
+.c_list .fancy-checkbox {
+    margin-right: 0px
+}
+
+.margin-0,
+.card .header .header-dropdown,
+.card .header h2,
+.navbar-nav,
+.nav-tabs-new>li>a,
+.sidebar-nav ul,
+.block-header .breadcrumb,
+.media .media-body .media-heading,
+.wizard ul,
+.tabcontrol ul,
+.tabcontrol>.steps>ul>li>a,
+.weather2 .city-selected .temp h2,
+.weather2 .days-list,
+.weather3 .bottom .forecast,
+.weather4 p,
+.stats-report .stat-item h5,
+.new_timeline>ul,
+.new_timeline h3,
+.new_timeline h4,
+.c_list tr td .btn,
+.project_report h6,
+.project_report .team-info,
+.w_social2 .pw_content .pw_header h6,
+.w_user .wid-u-info h5,
+.feeds_widget li .feeds-body .title,
+.timeline-item h5,
+.fc-overlay.right,
+.fc .fc-toolbar,
+.fc .fc-toolbar h2 {
+    margin: 0 !important
+}
+
+.p-r-5,
+.wizard.vertical>.steps {
+    padding-right: 5px
+}
+
+.padding-0,
+.card .header .header-dropdown,
+.navbar-fixed-top,
+.navbar-fixed-top .navbar-btn,
+.sidebar-nav ul,
+.search-form,
+.search-form .btn,
+.block-header .breadcrumb,
+.accordion .card-header,
+.wizard ul,
+.tabcontrol ul,
+.wizard ul>li,
+.tabcontrol ul>li,
+.tabcontrol>.steps>ul>li:hover,
+.chat-widget,
+.weather3 .bottom .forecast,
+.new_timeline .header,
+.right_chat .media .status,
+.profilepage_1 .tab-content,
+.fc .fc-view-container .fc-view.fc-basic-view>table>thead tr th.fc-agenda-gutter,
+.fc .fc-view-container .fc-view.fc-basic-view>table>thead tr td.fc-agenda-gutter,
+.fc .fc-view-container .fc-view.fc-agenda>table>thead tr th.fc-agenda-gutter,
+.fc .fc-view-container .fc-view.fc-agenda>table>thead tr td.fc-agenda-gutter,
+.fc .fc-view-container .fc-view.fc-basic-view>table>thead tr td.fc-widget-header,
+.fc .fc-view-container .fc-view.fc-agenda>table>thead tr td.fc-widget-header,
+.file_manager .file,
+.pricing2 .pricing-plan .pricing-features {
+    padding: 0 !important
+}
+
+.wizard,
+.tabcontrol {
+    width: 100%;
+    overflow: hidden
+}
+
+.wizard a,
+.tabcontrol a {
+    outline: 0
+}
+
+.wizard ul,
+.tabcontrol ul {
+    list-style: none !important
+}
+
+.wizard>.steps .current-info,
+.tabcontrol>.steps .current-info,
+.wizard>.content>.title,
+.tabcontrol>.content>.title {
+    position: absolute;
+    left: -999em
+}
+
+.wizard>.steps {
+    position: relative;
+    width: 100%
+}
+
+.wizard.vertical>.steps {
+    float: left;
+    width: 30%
+}
+
+.wizard.vertical>.steps>ul>li {
+    float: none;
+    width: 100%
+}
+
+.wizard.vertical>.steps>ul>li a {
+    margin: 0 0 2px 0
+}
+
+.wizard.vertical>.content {
+    float: left;
+    margin: 0 0 0.5em 0;
+    width: 70%
+}
+
+.wizard.vertical>.actions {
+    float: right;
+    width: 100%
+}
+
+.wizard>.steps>ul>li {
+    width: 25%;
+    float: left
+}
+
+.wizard>.actions>ul>li {
+    float: left
+}
+
+.wizard>.steps {
+    margin-bottom: 2px
+}
+
+.wizard>.steps a {
+    width: auto;
+    margin: 0 2px 0 0;
+    padding: 1em 1em;
+    text-decoration: none
+}
+
+.wizard>.steps a:hover,
+.wizard>.steps a:active {
+    width: auto;
+    margin: 0 2px 0 0;
+    padding: 1em 1em;
+    text-decoration: none
+}
+
+.wizard>.steps .disabled a {
+    background: #f0f0f0;
+    color: #bdbdbd;
+    cursor: default
+}
+
+.wizard>.steps .disabled a:hover,
+.wizard>.steps .disabled a:active {
+    background: #f0f0f0;
+    color: #bdbdbd;
+    cursor: default
+}
+
+.wizard>.steps .current a {
+    background: #224160;
+    color: #fff;
+    cursor: default
+}
+
+.wizard>.steps .current a:hover,
+.wizard>.steps .current a:active {
+    background: #224160;
+    color: #fff;
+    cursor: default
+}
+
+.wizard>.steps .done a {
+    background: #224160;
+    color: #fff;
+    opacity: 0.7
+}
+
+.wizard>.steps .done a:hover,
+.wizard>.steps .done a:active {
+    background: #224160;
+    color: #fff;
+    opacity: 0.7
+}
+
+.wizard>.steps .error a {
+    background: #de4848;
+    color: #fff
+}
+
+.wizard>.steps .error a:hover,
+.wizard>.steps .error a:active {
+    background: #de4848;
+    color: #fff
+}
+
+.wizard>.content {
+    border: 1px solid #f0f0f0;
+    min-height: 35em;
+    overflow: hidden;
+    position: relative;
+    width: auto
+}
+
+.wizard>.actions {
+    position: relative;
+    width: 100%
+}
+
+.wizard>.actions a {
+    background: #224160;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: .25rem
+}
+
+.wizard>.actions a:hover,
+.wizard>.actions a:active {
+    background: #224160;
+    color: #fff;
+    text-decoration: none
+}
+
+.wizard>.actions .disabled a {
+    background: #f0f0f0;
+    color: #aaa
+}
+
+.wizard>.actions .disabled a:hover,
+.wizard>.actions .disabled a:active {
+    background: #f0f0f0;
+    color: #aaa
+}
+
+.tabcontrol>.steps {
+    position: relative;
+    width: 100%
+}
+
+.tabcontrol>.steps>ul {
+    position: relative;
+    margin: 6px 0 0 0;
+    top: 1px;
+    z-index: 1
+}
+
+.tabcontrol>.steps>ul>li {
+    float: left;
+    margin: 5px 2px 0 0;
+    padding: 1px;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px
+}
+
+.tabcontrol>.steps>ul>li:hover {
+    background: #eee;
+    border: 1px solid #bdbdbd
+}
+
+.tabcontrol>.steps>ul>li.current {
+    background: #fff;
+    border: 1px solid #bdbdbd;
+    border-bottom: 0 none;
+    padding: 0 0 1px 0
+}
+
+.tabcontrol>.steps>ul>li.current>a {
+    padding: 15px 30px 10px 30px
+}
+
+.tabcontrol>.steps>ul>li>a {
+    color: #444;
+    border: 0 none;
+    padding: 10px 30px;
+    text-decoration: none
+}
+
+.tabcontrol>.steps>ul>li>a:hover {
+    text-decoration: none
+}
+
+.tabcontrol>.content {
+    position: relative;
+    width: 100%;
+    height: 35em;
+    overflow: hidden;
+    border-top: 1px solid #bdbdbd
+}
+
+.tabcontrol>.content>.body {
+    float: left;
+    position: absolute;
+    width: 95%;
+    height: 95%;
+    padding: 2.5%
+}
+
+.tabcontrol>.content>.body ul {
+    list-style: disc !important
+}
+
+.tabcontrol>.content>.body ul>li {
+    display: list-item
+}
+
+.wizard .content {
+    min-height: 245px;
+    overflow-y: auto
+}
+
+.wizard .content .body {
+    padding: 15px
+}
+
+@media only screen and (max-width: 767px) {
+    .wizard>.steps>ul>li {
+        width: 100%
+    }
+    .wizard.wizard.vertical>.content,
+    .wizard.wizard.vertical>.steps {
+        width: 100%
+    }
+}
